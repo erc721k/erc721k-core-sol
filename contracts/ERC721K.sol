@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity 0.8.15;
 
-import { ERC721 } from "@turbo-eth/solbase-sol/src/tokens/ERC721/ERC721.sol";
+import { ERC721 } from "./helpers/ERC721.sol";
 import { OwnedRoles } from "@turbo-eth/solbase-sol/src/auth/OwnedRoles.sol";
 import { ERC721Storage } from "./ERC721Storage.sol";
 

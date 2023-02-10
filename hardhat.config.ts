@@ -63,6 +63,9 @@ const config: HardhatUserConfig = {
           // '@erc721k/periphery-sol/contracts/svg/SVGLibrary.sol',
           // '@erc721k/periphery-sol/contracts/svg/SVGRegistry.sol',
           // '@erc721k/streams-sol/contracts/svg/SVGRegistry.sol',
+          // '@turbo-eth/solbase-sol/src/tokens/ERC721/ERC721.sol',
+          // '@turbo-eth/solbase-sol/src/auth/OwnedRoles.sol',
+          // '@turbo-eth/solbase-sol/src/utils/Base64.sol',
       ],
   },
 };
